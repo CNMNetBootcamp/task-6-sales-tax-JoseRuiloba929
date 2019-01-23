@@ -1,9 +1,8 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6", "Task6\Task6.csproj", "{25C33DBF-9D96-452F-BF64-936BA949AF21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task6", "Task6\Task6.csproj", "{25C33DBF-9D96-452F-BF64-936BA949AF21}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pseudocode", "Pseudocode", "{47EA561C-E861-4CF3-9AA2-39EDC5990E3C}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Raptor", "Raptor", "{C788D759-4E4B-4A20-8D82-39912B0EFE9B}"
 	ProjectSection(SolutionItems) = preProject
 		Task4.rap = Task4.rap
+		Task6.rap = Task6.rap
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63519FB8-BE72-42D9-83E8-04EBD3D192AB}"
